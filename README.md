@@ -2,7 +2,7 @@
 VBA scripts to analyse stock prices and volume
 
 
-Quick Start:
+-----------Quick Start----------
 
 To Run the project, execute the Sub "main()" from vba
 
@@ -16,14 +16,15 @@ The sub main calls the following functions:
 
 When its done you will receive a msgbox
 
-
-Files:
+---------Files----------------
 
 alphabtical_testing-TGS2.xlsm -> ready to run excel file with the all the Sub intalled
+
 Multiple_year_stock_data - TGS.xlsm -> this is the file with all the data and the Sub already run
+
 Unite1-Assignment2-Report-vba.docx -> this file contains the screenshots of the analysis from the Multiple_year_stock_data file
 
--------main Scripts------
+--------Scripts------
 
 List_and_volume.vbs -> creates a unique tickers list at the same time calculates the total volume traded optimizing the resources
 
