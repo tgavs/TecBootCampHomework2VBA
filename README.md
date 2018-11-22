@@ -22,7 +22,7 @@ alphabtical_testing-TGS2.xlsm -> ready to run excel file with the all the Sub in
 
 Multiple_year_stock_data - TGS.xlsm -> this is the file with all the data and the Sub already run
 
-Unite1-Assignment2-Report-vba.docx -> this file contains the screenshots of the analysis from the Multiple_year_stock_data file
+Unit1-Assignment2-Report-vba.docx -> this file contains the screenshots of the analysis from the Multiple_year_stock_data file
 
 --------Scripts------
 
