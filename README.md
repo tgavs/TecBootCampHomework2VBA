@@ -37,7 +37,7 @@ Greatest_changes.vbs  -> calculates the greatest changes among the stocks
 -----Additional Scripts----
 Another way to create the unique tickers list and total volume. Not too fast but using straightforward what we have seen in class.
 
-This subs are not necesary to run the main
+This subs are not necessary to run the main
 
 Lista_unica.vbs 
 
