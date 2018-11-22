@@ -6,6 +6,8 @@ VBA scripts to analyse stock prices and volume
 
 To Run the project, execute the Sub "main()" from vba
 
+It should take less than 1-2 minute to run the whole procedure
+
 The sub main calls the following functions:
 
     Call List_and_volume(ws) 'creates a unique list and sets the total volume traded for each unique ticker
