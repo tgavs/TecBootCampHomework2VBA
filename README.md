@@ -25,15 +25,20 @@ Unite1-Assignment2-Report-vba.docx -> this file contains the screenshots of the 
 
 -------main Scripts------
 
-'List_and_volume.vbs -> creates a unique tickers list at the same time calculates the total volume traded optimizing the resources
-'Yrl_Change.vbs -> this sub calculates the yearly change for every stock
-'Greatest_changes.vbs  -> calculates the greatest changes among the stocks
+List_and_volume.vbs -> creates a unique tickers list at the same time calculates the total volume traded optimizing the resources
+
+Yrl_Change.vbs -> this sub calculates the yearly change for every stock
+
+Greatest_changes.vbs  -> calculates the greatest changes among the stocks
 
 -----Additional Scripts----
 Another way to create the unique tickers list and total volume. Not too fast but using straightforward what we have seen in class.
+
 This subs are not necesary to run the main
-'Lista_unica.vbs 
-'Total_volume.vbs
+
+Lista_unica.vbs 
+
+Total_volume.vbs
 
 
 
